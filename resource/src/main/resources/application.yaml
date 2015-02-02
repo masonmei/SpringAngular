@@ -1,0 +1,8 @@
+server:
+  port: 9000
+security:
+  sessions: NEVER
+
+spring:
+  redis:
+    host: igitras.chinacloudapp.cn

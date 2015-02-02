@@ -1,0 +1,6 @@
+security:
+  user:
+    password: 123456
+spring:
+  redis:
+    host: igitras.chinacloudapp.cn
